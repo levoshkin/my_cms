@@ -1,4 +1,8 @@
 <?php
+/**
+* version 1.0
+*
+*/
 define("CONSTANT", true);
 
 require('config.php');
